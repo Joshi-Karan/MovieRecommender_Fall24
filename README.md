@@ -1,86 +1,99 @@
-# <i>Movie Recommendation 🎥 </i>
-    A collaborative filtering based recommendation engine!
+<h3 align="center">
+Cineflix 2.0 🎥: An AI powered movie recommender system!
+</h3>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/blob/release/Code/frontend/cineflix.png?raw=true">
+    <img alt="cineflix" src="https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/blob/release/Code/frontend/cineflix.png?raw=true" height=30% width=50%>
+  </picture>
+</p>
+
+<div align="center">
+   
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+  ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  
+ 
+</div>
+
+<div align="center">
+
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/Rmv-se-510/MovieRecommender_2.0_Fall24/release)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![cov](https://img.shields.io/badge/coverage-98.6900%25-green?link=https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/actions/runs/11639944138/jobs/coverage)](https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/actions/runs/11639944138)
+  [![License](https://img.shields.io/badge/License-MIT-purple.svg?style=flat)](https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/release/LICENSE)
+  [![Collaborators](https://img.shields.io/badge/Collaborators-3-orange.svg?style=flat)](https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/graphs/contributors)
+  [![Language](https://img.shields.io/badge/Language-Python-blue.svg?style=flat)](https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/search?l=python)
+  [![Open Issues](https://img.shields.io/github/issues/Rmv-se-510/MovieRecommender_2.0_Fall24)](https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/issues)
+  [![GitHub Repo Size](https://img.shields.io/github/repo-size/Rmv-se-510/MovieRecommender_2.0_Fall24.svg)](https://img.shields.io/github/repo-size/Rmv-se-510/MovieRecommender_2.0_Fall24.svg)
+[![Tests](https://img.shields.io/badge/tests-passing-green?link=https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/actions/runs/11639944138/jobs/coverage)](https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/actions/runs/11639944138)
+[![Radon](https://img.shields.io/badge/radon_cc-2.03-green?link=https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/actions/runs/11639944138/jobs/radon)](https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/actions/runs/11639944138)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/Rmv-se-510/MovieRecommender_2.0_Fall24)
+[![Pylint](https://img.shields.io/badge/pylint-9.66-orange?link=https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/actions/runs/11639944138/jobs/pylint)](https://github.com/Rmv-se-510/MovieRecommender_2.0_Fall24/actions/runs/11639944138)
+  ![Autopep8](https://img.shields.io/badge/autopep8-passing-brightgreen)
+  [![DOI](https://zenodo.org/badge/888202351.svg)](https://doi.org/10.5281/zenodo.14226356)
+  ![GitHub forks](https://img.shields.io/github/forks/Rmv-se-510/MovieRecommender_2.0_Fall24.svg)
+
+
+</div>
 
 
 
 
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+<br>
 
+### Introduction
 
-
- ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/A1231/MovieRecommender)
- ![GitHub issues](https://img.shields.io/github/issues/A1231/MovieRecommender)
- ![GitHub closed issues](https://img.shields.io/github/issues-closed/A1231/MovieRecommender)
- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)  [![Code Coverage](https://github.com/MadhurDixit13/MovieRecommender/actions/workflows/codecov.yml/badge.svg)](https://github.com/MadhurDixit13/MovieRecommender/actions/workflows/codecov.yml) [![codecov](https://codecov.io/gh/MadhurDixit13/MovieRecommender/graph/badge.svg?token=9NGWAJ7BST)](https://codecov.io/gh/MadhurDixit13/MovieRecommender)  [![black](https://img.shields.io/badge/StyleChecker-black-purple.svg)](https://pypi.org/project/black/) [![DOI](https://zenodo.org/badge/721365396.svg)](https://zenodo.org/doi/10.5281/zenodo.10212435) ![GitHub release (with filter)](https://img.shields.io/github/v/release/A1231/MovieRecommender) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/A1231/MovieRecommender) 
-
-
-Discover Your Next Movie Night Gem!<br>
-Tired of endless scrolling, trying to find the perfect movie? 🍿<br><br>
-## Sneak peak! :wink:
-<img width="500" height="250" alt="color picker" src="asset/ui.jpeg" /><br><br>
-<img width="500" height="250" alt="color picker" src="asset/ezgif.com-video-to-gif-2.gif" /><br><br>
-
-
-<img width="500" height="250" alt="color picker" src="asset/ezgif.com-video-to-gif.gif" /><br><br>
-
-# <b>Contents</b>
-
-- [Introduction](https://github.com/MadhurDixit13/MovieRecommender#introduction-%EF%B8%8F)<br>
-- [Future Project Plan](https://github.com/MadhurDixit13/MovieRecommender#future-project-plan-%F0%9F%94%AE)<br>
-- [Video](https://github.com/MadhurDixit13/MovieRecommender#video-%EF%B8%8F)<br>
-- [Working](https://github.com/MadhurDixit13/MovieRecommender#working-)<br>
-- [Tech Stack](https://github.com/MadhurDixit13/MovieRecommender#tech-stack-)<br>
-- [Requirements and Setup](https://github.com/MadhurDixit13/MovieRecommender#requirements-and-setup-%EF%B8%8F)<br>
-- [Usage](https://github.com/MadhurDixit13/MovieRecommender#usage)<br>
-- [Documentation](https://github.com/MadhurDixit13/MovieRecommender#documentation-)<br>
-- [Bug](https://github.com/MadhurDixit13/MovieRecommender#bug-)<br>
-- [License](https://github.com/MadhurDixit13/MovieRecommender#license-%F0%9F%93%83)
-
-
-
-## Introduction 👁️
-
-Say hello to our Movie Recommender! 🚀<br>
-Just tell us what type of movies you like, and we'll serve up a handpicked list of 10 must-watch movies tailored to your taste. No more movie-night dilemmas! 🎬<br>
-Save time, ditch the hassle, and let Movie Recommender do the work for you. Movie night has never been this easy and exciting! 🌟<br>
-Your perfect movie is just a click away. Get started now and make every movie night a hit! 👏<br><br>
+**Cineflix 2.0** is an AI-powered movie recommendation application built with Flask.  Simply tell us the kind of movies you love, and we'll generate a personalized list of must-watch films tailored to your preferences. Say goodbye to endless scrolling and hello to effortless movie nights!  Save time, skip the stress, and let Cineflix 2.0 handle the recommendations. Your next favorite movie is just a click away. Get started today and make every movie night unforgettable!
 
 ![Hurray](https://media.giphy.com/media/jwY84621p1hhnG0ANK/giphy.gif)
 
 
+<br>
 
-## What's new in phase 3?! :blush:
-1. Integration of youtube api to provide trailers for the recommended movies.
-2. Implemented User Authentication by developing a register and login page.
-3. Users are now able to create an account and access their account history (Liked movies, Disliked movies and movies yet to watch) for previously recommended movies.
-4. Integrated a Database using SQL alchemy to store user related data and movies.
-5. Enhancement of the user interface.
-6. Fixed bugs related to the feedback of recommended movies.
+### What's New in Phase 5?
+
+1. **Login and Signup:** Resolved the issue where users were signed out after a page reload.  
+2. **Enhanced Movie Filtering:** Added functionality to display movies by director, actor, or genre when their name is clicked.  
+3. **Improved User Profiles:** Redesigned the user profile page to showcase liked, disliked, and saved movies in an organized and visually appealing way.  
+4. **Refined Recommendations:** Removed the search bar and implemented automatic recommendations on the homepage based on user preferences.  
+5. **Bug Fixes in Recommendations:** Fixed incorrect suggestions and ensured recommendations align closely with user-selected movies.  
+6. **Faster Response Times:** Optimized recommendation engine speed, reducing response time from 30ms to 1 second.  
+7. **Latency Reduction:** Replaced the CSV file of 9k rows with session storage cache, significantly improving response time and system performance.  
+
+
+
 <img width="500" height="250" alt="color picker" src="asset/giphy.gif" /><br><br>
 
 
 
-## Future Project Plan 🔮
+### Future Project Plan 🔮
 
-Following is what the future developers can add! :
+The following changes can take this project to an even greater level:  
 
-1. Create a dynamic movie list instead of using an existing movie csv file.
-2. Build a new feature that exhibits diversity across genres, casting choices, and different production styles.
-3. Enhancing the user profile page.
-
-
-Note: Our system can be virtually tested through Github Actions inbuilt feature of build and test queries using python.
-
-Make sure you taste your own medicine first and take into account other peoples familiarity with the system before you design your tests.
+1. **Integration with Streaming Platforms:** Allow users to connect their streaming accounts (e.g., Netflix, Hulu, Prime Video) to provide platform-specific recommendations and direct links to watch.  
+2. **Advanced Personalization:** Incorporate user feedback and advanced AI models to refine recommendations further, adapting to evolving preferences over time.  
+3. **Social Features:** Add a social layer where users can share recommendations, create watchlists with friends, and rate or review movies for the community.  
+4. **Mobile App Development:** Launch a dedicated mobile app for seamless access to recommendations on the go, with push notifications for new releases.  
+5. **Multilingual Support:** Expand the database to include movies from global cinemas and provide recommendations in multiple languages, catering to diverse audiences.  
 
 
-## Video ▶️ 
+<br>
 
-[![Watch the video](https://markdown-videos-api.jorgenkh.no/youtube/fKRjYqZlOTY)](https://www.youtube.com/watch?v=fKRjYqZlOTY)
+### Why choose us ?  
+
+Video ▶️: [Click here](https://youtu.be/Q0m-VC4h3dw)
 
 
+### 
 
-## Working 📱
+<img width="500" height="250" alt="color picker" src="asset/4109c3f1d362403a87c5ebfd4bb382ee_w200.gif" /><br><br>
+<br>
+
+### Working 📱
 
 - Below working displays the system also evaluates movie attributes such as genre, cast, director, and user-generated reviews. 
 - By combining these user-specific data and film characteristics, the recommender system employs machine learning to generate tailored movie recommendations.
@@ -88,11 +101,9 @@ Make sure you taste your own medicine first and take into account other peoples 
 - Furthermore, recommender systems often employ a feedback loop, where users' interactions and feedback help refine the recommendations over time, ensuring that the suggestions remain relevant.
 
 
+<br>
 
-
-
-
-## Tech stack used 👨‍💻
+### Tech stack used 👨‍💻
 <details>
 <summary>Python</summary>
 
@@ -107,6 +118,14 @@ Python is a high-level, general-purpose programming language known for its simpl
 Flask is a micro web framework written in Python. It's lightweight and easy to use for building web applications, making it a perfect choice for small to medium-sized projects.
 
 ![Flask](https://miro.medium.com/v2/resize:fit:679/0*Nh_pliddv1BFAx68.gif)
+</details>
+
+<details>
+<summary>React</summary>
+
+React is a JavaScript library for building user interfaces!
+
+![alt text](image-2.png)
 </details>
 
 <details>
@@ -133,8 +152,9 @@ JavaScript is a versatile and widely used programming language for adding intera
 ![JavaScript](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif)
 </details>
 
-## Requirements and Setup ⚙️
+<br>
 
+### Requirements and Setup ⚙️
 
 - python 3.5 +
 - pip
@@ -146,13 +166,22 @@ JavaScript is a versatile and widely used programming language for adding intera
 - Install all required python packages
     `pip install -r requirements.txt `
 
-## Usage
+<br>
+
+### Usage
+To run Flask backend:
 1. `cd Code/recommenderapp`
 2. `python3 app.py`
 
-## Follow these steps to run our project on your system! 🔮
+To run React frontend:
+1. cd Code/frontend
+2. npm start
+
+<br>
+
+### Follow these steps to run our project on your system! 🔮
 1. Clone the project onto your system.
-2. Incluse an api_key.txt file with the api key for the movie API - Take a look at this link: (https://developer.themoviedb.org/reference/intro/getting-started).
+2. Incluse an api_key.txt file with the api key for the movie API and store it in a .env file on your computer - Take a look at this link: (https://developer.themoviedb.org/reference/intro/getting-started).
 3. Install the following packages:
    
    a. `pip install flask-sqlalchemy`
@@ -173,17 +202,37 @@ JavaScript is a versatile and widely used programming language for adding intera
    
    c. `db.create_all()`
    
-7. Run `cd Code/recommenderapp` and `python3 app.py`
+7. Run the backend and frontend.
+
+<br>
+
+### Documentation 📚
+Refer to Wiki page [here](https://github.com/Joshi-Karan/MovieRecommender_Fall24/wiki)
+
+<br>
 
 
-## Documentation 📚
-Refer to Wiki page [here](https://github.com/MadhurDixit13/MovieRecommender/wiki/Documentation)
-
-
-## Bug? 🐛
-Raise a issue on this repository, we would love to look at it ❤️
-
-## License 📃
+### License 📃
 This project is under MIT License.
 - The MIT license explicitly grants users the right to reuse code for various purposes,hence for improval of future scope of the code we have added MIT license.
 - They include the original MIT license when distributing it. Allowing users to customize or adapt the code to meet their specific requirements.
+
+<br>
+
+### Need Help?
+Contact us at helpcineflix@gmail.com for any query.
+
+
+### Contributors
+<h2></h2>
+
+We'd like to thank the following contributors for their valuable input and enhancements to this project:
+
+- [Meet Vora](https://github.com/your-profile)
+- [Raj Patel](https://github.com/contributor-profile)
+- [Vihar Shah](https://github.com/another-contributor-profile)
+
+
+#### Acknowledgements
+
+This project was forked from [MOVIE RECOMMENDER SYSTEM FALL 24](https://github.com/Joshi-Karan/MovieRecommender_Fall24) and has been enhanced with additional features and improvements. Special thanks to the original authors for their foundational work.

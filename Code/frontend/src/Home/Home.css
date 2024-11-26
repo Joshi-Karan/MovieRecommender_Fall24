@@ -1,0 +1,9 @@
+div.actionButtons {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+button.selected {
+    color: red
+}
